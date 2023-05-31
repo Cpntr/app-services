@@ -26,3 +26,5 @@ This is a demo of an app that uses the REST API in the Next.js framework to get 
 ![App services List Demo_1)](https://github.com/Cpntr/app-services/assets/36503882/ef04d15a-84c7-4c17-bd60-e5787898ea54)
 ![App services List Demo_2](https://github.com/Cpntr/app-services/assets/36503882/26124c24-641b-4c99-97b6-035f9fa03c33)
 
+video link for demo https://drive.google.com/file/d/11T_1sYMRtDAyivaVw0KiYsWgRtAnkbnC/view
+
